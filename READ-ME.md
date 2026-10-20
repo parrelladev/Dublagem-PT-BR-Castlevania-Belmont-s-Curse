@@ -23,3 +23,6 @@ O plugin só é ativado quando o SHA-256 de `GameAssembly.dll` é `56212abb69646
 Há 789 falas de `Dialog_en_GB` com WAVs PT-BR. IDs sem substituição continuam usando o áudio original. Voicelines, amostras Master e outras cinematics permanecem originais. A cinematic CT01 usa a master WAV PT-BR sincronizada, estéreo, 48 kHz/24-bit, com 185,033 s.
 
 Os bancos originais não são distribuídos nem modificados. A mixagem da CT01 usa a mix japonesa como base, sem stem isolado de música e efeitos; consulte a página do mod para as limitações dessa mix.
+
+## Nexus Mod
+https://www.nexusmods.com/castlevaniabelmontscurse/mods/91
